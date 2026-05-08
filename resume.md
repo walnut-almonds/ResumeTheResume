@@ -92,8 +92,8 @@
 - 開發一款基於 Web 的多人即時對話遊戲，使用 Golang 實現後端服務
 ### StarResonanceFishing
 - 基於 Python 的 スタレゾ（Star Resonance）釣魚自動化工具
-### VRCFishFishing
-- 基於 Python 的 VRC Fish 地圖自動化釣魚程式
+### Aegis
+- 分散式鎖服務，提供簡單易用的 RESTful API，gRPC 與 SDK，目前已實作 Redis、DynamoDB、PostgreSQL 與 MySQL 四種儲存引擎
 
 ## Interests
 - PC Gaming (Steam)
