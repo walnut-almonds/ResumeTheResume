@@ -1,7 +1,7 @@
 # 許凱傑 Alger_Hsu
 ### Go / Backend Software Developer
 [cake](https://www.cake.me/ewew61212)
- • [104](https://pda.104.com.tw/profile/share/5gqO3DupH5PBcUb3SflyxnFHwOtlWYni)
+ • [104](https://pda.104.com.tw/profile/share/8u4csxeUdy2vb5JASn84iq7Z2kje6PWK)
  • [linkedin](https://www.linkedin.com/in/kai-jie-hsu-b895a5265)
  • [github](https://github.com/walnut-almonds)
  • [medium](https://medium.com/@ewew61212)
@@ -63,6 +63,14 @@
 - Backend: PHP, MySQL, Redis
 - CICD: SVN
 
+### Education
+*2015/9 - 2019/6*
+德明財經科技大學 資訊科技系
+- 積極參與 ICPC、CPE 競賽 
+- 曾獲自走車比賽季軍
+- 畢業專題中研究自平衡車系統
+
+
 ## Skills
 - Programming Languages: Golang, PHP, TypeScript, Python
 - Databases: MySQL, MongoDB, Redis, Elastic Search
@@ -89,7 +97,8 @@
 
 ## Projects
 ### TalkRealm
-- 開發一款基於 Web 的多人即時對話遊戲，使用 Golang 實現後端服務
+- 一款基於 Web 的多人即時對話軟體，前端使用 Vue 後端使用 Golang 實現，目前實現了基礎的聊天與語音直播通訊功能
+https://chat.qrumi.org/
 ### StarResonanceFishing
 - 基於 Python 的 スタレゾ（Star Resonance）釣魚自動化工具
 ### Aegis
@@ -110,4 +119,4 @@
 - LinkedIn: https://www.linkedin.com/in/kai-jie-hsu-b895a5265
 - GitHub: https://github.com/walnut-almonds
 - Cake: https://www.cake.me/ewew61212
-- 104: https://pda.104.com.tw/profile/share/5gqO3DupH5PBcUb3SflyxnFHwOtlWYni
+- 104: https://pda.104.com.tw/profile/share/8u4csxeUdy2vb5JASn84iq7Z2kje6PWK
